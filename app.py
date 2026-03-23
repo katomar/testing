@@ -13,6 +13,12 @@ app.run(host="0.0.0.0", port=5000)
 
 
 
+@app.route(/"test")
+def test():
+	return "Test route"
+
+
+
 
 
 

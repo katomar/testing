@@ -1,0 +1,8 @@
+devops@devopslearn:~/testing/docker-app$ docker build -t myapp:v1
+DEPRECATED: The legacy builder is deprecated and will be removed in a future release.
+            Install the buildx component to build images with BuildKit:
+            https://docs.docker.com/go/buildx/
+
+docker: 'docker build' requires 1 argument
+
+Usage:  docker build [OPTIONS] PATH | URL | -
